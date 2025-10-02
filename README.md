@@ -11,8 +11,8 @@ These map neatly to parametric drawing and modular classes, ready for interactio
 > Goal: a **touchable wheel** that responds to swipes, pinches, and camera gestures—keeping Abad’s rhythmic ornament while adding embodied play.
 
 **High-quality references (embedded):**  
-![Original (USEUM)](https://useum.org/artwork/Wheels-of-Fortune-Pacita-Abad-2000)  
-![Color/Detail (SFMOMA)](https://www.sfmoma.org/read/pacita-abad-a-living-tapestry-of-places/)  
+![Original Artwork)](https://canvas.sydney.edu.au/courses/67353/files/44683982/preview)  
+![Color/Detail Style](https://d1hhug17qm51in.cloudfront.net/www-media/2023/11/06114146/05_Pacita-Abad_If-My-Friends-Could-See-Me-Now_1991-72dpi-765x1024.jpg)  
 ![Interaction/Installation view](https://images.squarespace-cdn.com/content/v1/5d91f0811b06bc4c5b873679/1571492391091-1Z8JAA9ZPLLE7WBUYVV5/20191018_222551.jpg?format=1500w)
 
 ---
