@@ -23,9 +23,8 @@ These map neatly to parametric drawing and modular classes, ready for interactio
 No custom code—only **existing online examples**:  
 1) **Mouse/Touch** (click, drag, swipe);  
 2) **Hand tracking** (`ml5.js` Handpose / PoseNet);  
-3) **Easing/Springs** for inertia;  
-4) **Particleization**: dots disperse/reassemble, positions update over time;  
-5) **Circle collisions** (overlap/response).  
+3) **Particleization**: dots disperse/reassemble, positions update over time;  
+4) **Circle collisions** (overlap/response).  
 These resources combine to realize the interactive, radial, dotted aesthetic from Part 1.
 
 ---
@@ -46,13 +45,13 @@ These resources combine to realize the interactive, radial, dotted aesthetic fro
 - **Pixels & video track (The Coding Train)** (e.g., *Video Pixels*, *Motion Detection*):  
   - [Pixels & Video track](https://thecodingtrain.com/pixels)
 
-### 4. Particleization (disperse / reassemble)
+### 3. Particleization (disperse / reassemble)
 - **The Coding Train — Challenges directory** (search *particle system*, *flow field*, *fireworks*):  
   - [Challenges directory](https://thecodingtrain.com/challenges)
 - **p5.js Examples index** (*particles*):  
   - [p5.js particles](https://p5js.org/examples/classes-and-objects-connected-particles/)
 
-### 5. Circle Collisions
+### 4. Circle Collisions
 - **Collision-related challenges (The Coding Train)**:  
   - [Collision challenges](https://editor.p5js.org/codingtrain/sketches/3DrBb8LCp)
 
