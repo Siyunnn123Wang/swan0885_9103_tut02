@@ -34,17 +34,16 @@ These resources combine to realize the interactive, radial, dotted aesthetic fro
 
 ### 1. Mouse / Touch
 - **p5 Touch events** — `touchStarted()`, `touchMoved()`, `touchEnded()` (multi-touch):  
-  https://p5js.org/reference/#group-Touch  
+  ![`touchStarted()`]https://p5js.org/reference/p5/touchMoved/
+  ![`touchMoved()`]https://p5js.org/reference/p5/touchEnded/
+  ![`touchEnded()`]https://p5js.org/reference/p5/touchStarted/
 - **`touches[]` array** (multi-touch points):  
-  https://p5js.org/reference/#/p5/touches  
-- **Mouse input overview (Happy Coding)**:  
-  https://happycoding.io/tutorials/p5js/input
+  ![`touches[]`]https://p5js.org/reference/p5/touches/
+
 
 ### 2.Hand Tracking / Video Input
 - **Camera input** — `createCapture(VIDEO)`:  
-  https://p5js.org/reference/#/p5/createCapture  
-- **ml5.js Handpose** (hand landmarks):  
-  https://ml5js.org/reference/api-Handpose/  
+ ![`createCapture(VIDEO)`]hhttps://p5js.org/reference/p5/createCapture/
 - **ml5 / PoseNet intro (The Coding Train)**:  
   https://thecodingtrain.com/learning/ml5/intro  
 - **Pixels & video track (The Coding Train)** (e.g., *Video Pixels*, *Motion Detection*):  
