@@ -34,40 +34,28 @@ These resources combine to realize the interactive, radial, dotted aesthetic fro
 
 ### 1. Mouse / Touch
 - **p5 Touch events** — `touchStarted()`, `touchMoved()`, `touchEnded()` (multi-touch):  
-  ![`touchStarted()`]https://p5js.org/reference/p5/touchMoved/
-  ![`touchMoved()`]https://p5js.org/reference/p5/touchEnded/
-  ![`touchEnded()`]https://p5js.org/reference/p5/touchStarted/
+  - [`touchMoved()`](https://p5js.org/reference/p5/touchMoved/)
+  - [`touchEnded()`](https://p5js.org/reference/p5/touchEnded/)
+  - [`touchStarted()`](https://p5js.org/reference/p5/touchStarted/)
 - **`touches[]` array** (multi-touch points):  
-  ![`touches[]`]https://p5js.org/reference/p5/touches/
+  - [`touches[]`](https://p5js.org/reference/p5/touches/)
 
-
-### 2.Hand Tracking / Video Input
+### 2. Hand Tracking / Video Input
 - **Camera input** — `createCapture(VIDEO)`:  
- ![`createCapture(VIDEO)`]hhttps://p5js.org/reference/p5/createCapture/
-- **ml5 / PoseNet intro (The Coding Train)**:  
-  https://thecodingtrain.com/learning/ml5/intro  
+  - [`createCapture(VIDEO)`](https://p5js.org/reference/p5/createCapture/)
 - **Pixels & video track (The Coding Train)** (e.g., *Video Pixels*, *Motion Detection*):  
-  https://thecodingtrain.com/pixels
-
-### 3. Easing / Springs (smooth interaction)
-- **Easing (Happy Coding)**:  
-  https://happycoding.io/tutorials/p5js/animation/easing  
-- **Spring Forces (The Coding Train)**:  
-  https://thecodingtrain.com/challenges/96-spring-forces
+  - [Pixels & Video track](https://thecodingtrain.com/pixels)
 
 ### 4. Particleization (disperse / reassemble)
 - **The Coding Train — Challenges directory** (search *particle system*, *flow field*, *fireworks*):  
-  https://thecodingtrain.com/challenges  
-- **Happy Coding — Particle systems** (concepts, examples):  
-  https://happycoding.io/tutorials/p5js/animation/particle-systems  
-- **p5.js Examples index** (search *particles* / *arrays*):  
-  https://p5js.org/examples/
+  - [Challenges directory](https://thecodingtrain.com/challenges)
+- **p5.js Examples index** (*particles*):  
+  - [p5.js particles](https://p5js.org/examples/classes-and-objects-connected-particles/)
 
 ### 5. Circle Collisions
-- **Collision detection (Happy Coding)** (circle-circle & boundaries concepts):  
-  https://happycoding.io/tutorials/p5js/physics/collision-detection  
 - **Collision-related challenges (The Coding Train)**:  
-  https://thecodingtrain.com/challenges
+  - [Collision challenges](https://editor.p5js.org/codingtrain/sketches/3DrBb8LCp)
+
 
 ---
 
