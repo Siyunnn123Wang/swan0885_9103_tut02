@@ -43,17 +43,17 @@ These resources combine to realize the interactive, radial, dotted aesthetic fro
 - **Camera input** — `createCapture(VIDEO)`:  
   - [`createCapture(VIDEO)`](https://p5js.org/reference/p5/createCapture/)
 - **Pixels & video track (The Coding Train)** (e.g., *Video Pixels*, *Motion Detection*):  
-  - [Pixels & Video track](https://thecodingtrain.com/pixels)
+  - [`Pixels & Video track`](https://thecodingtrain.com/pixels)
 
 ### 3. Particleization (disperse / reassemble)
 - **The Coding Train — Challenges directory** (search *particle system*, *flow field*, *fireworks*):  
-  - [Challenges directory](https://thecodingtrain.com/challenges)
+  - [`Challenges directory`](https://thecodingtrain.com/challenges)
 - **p5.js Examples index** (*particles*):  
-  - [p5.js particles](https://p5js.org/examples/classes-and-objects-connected-particles/)
+  - [`p5.js particles`](https://p5js.org/examples/classes-and-objects-connected-particles/)
 
 ### 4. Circle Collisions
 - **Collision-related challenges (The Coding Train)**:  
-  - [Collision challenges](https://editor.p5js.org/codingtrain/sketches/3DrBb8LCp)
+  - [`Collision challenges`](https://editor.p5js.org/codingtrain/sketches/3DrBb8LCp)
 
 
 ---
